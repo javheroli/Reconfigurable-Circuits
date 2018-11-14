@@ -1,0 +1,9 @@
+NOR,0,1
+NAND,0,1
+NOR,0,2
+AND,3,4
+XNOR,3,5
+OR,2,4
+NOT,6,-1
+XOR,7,8
+NOT,8,-1
